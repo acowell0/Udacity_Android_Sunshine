@@ -10,7 +10,7 @@
     <string name="pref_units_key">units</string>
     <string name="pref_units_label">Temperature Units</string>
     <string name="pref_units_default">Metric</string>
-    <string name="owm_appkey">3e0c0ee4c4edad94d4943d163a61146b</string>
+    <string name="owm_appkey">#########</string>
     <string name="data_format">json</string>
     <string name="action_map">Map Location</string>
     <string name="action_share">Share</string>
